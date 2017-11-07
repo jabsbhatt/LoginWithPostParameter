@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginWithPostParameter</string>
+
+    <!-- Strings related to login -->
+    <string name="login_string">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="login_now">LOGIN NOW</string>
+    <string name="not_registered">Not yet Registered? <u>Click here!</u></string>
+</resources>
